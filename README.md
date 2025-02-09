@@ -5,3 +5,5 @@ O programa busca estudantes que desejam acelerar sua carreira e desenvolver sua 
 Ao longo dessa jornada, vou compartilhar meus aprendizados por aqui. Fique de olho e acompanhe!
 
 Conheça mais sobre a DIO em: https://c.dio.me/plataforma
+
+![Alt text](./DIO CAMPUS Expert.png "Optional title")
