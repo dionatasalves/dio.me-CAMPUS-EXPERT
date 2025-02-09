@@ -6,4 +6,4 @@ Ao longo dessa jornada, vou compartilhar meus aprendizados por aqui. Fique de ol
 
 Conheça mais sobre a DIO em: https://c.dio.me/plataforma
 
-![Alt text](./DIO CAMPUS Expert.png "Optional title")
+![Alt text](./DIO_CAMPUS_Expert.png "Optional title")
